@@ -1,2 +1,2 @@
 # PasswordManager 
-Deployed version: https://password-manager-1818.herokuapp.com/
+Flask based web application for managing users passwords.
